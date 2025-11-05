@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Cache & temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+temp/
+tmp/
+
+# Data & models
+data/
+vectorstore/
+models/
+downloads/
+*.bin
+*.gguf
+
+# Environment & secrets
+.env
+*.env
+*.json
+*.yaml
+*.yml
+
+# Project-generated files
+docs/
+notebooks/
+prompts/
+*.db
+*.sqlite
+*.lock
+
+# OS/system
+.DS_Store
+Thumbs.db

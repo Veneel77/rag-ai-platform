@@ -1,0 +1,14 @@
+fastapi==0.95.2
+uvicorn[standard]==0.21.1
+langchain
+chromadb==0.3.26
+sentence-transformers==2.2.2
+transformers==4.34.0
+torch==2.2.2
+faiss-cpu==1.7.4
+streamlit==1.28.0
+python-dotenv==1.0.1
+jinja2==3.1.2
+pytest==7.4.2
+pypdf==3.12.0
+requests==2.31.0
