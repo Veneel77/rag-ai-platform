@@ -1,4 +1,4 @@
-#-🧠-RAG-AI-Platform
+# #-🧠-RAG-AI-Platform
 
 
 Your Local Retrieval-Augmented Generation Assistant for Enterprises
